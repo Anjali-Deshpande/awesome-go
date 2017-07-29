@@ -10,7 +10,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 ### Contents
 
-- [Awesome Go](#awesome-go)
+- [Awesome Go by Anjali](#awesome-go)
     - [Audio & Music](#audiomusic)
     - [Authentication & OAuth](#authentication--oauth)
     - [Command Line](#command-line)
